@@ -1,7 +1,5 @@
 # 📘 UML - Unified Modeling Language
 
-![Exemplo de Diagrama UML](https://static.javatpoint.com/tutorial/uml/images/uml-diagram.png)
-
 Este repositório contém estudos, exemplos e diagramas desenvolvidos com a linguagem de modelagem UML (Unified Modeling Language). A UML é uma ferramenta poderosa para visualizar, especificar, construir e documentar artefatos de sistemas de software orientados a objetos.
 
 ## 🔍 Objetivo
