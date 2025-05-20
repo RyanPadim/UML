@@ -1,6 +1,6 @@
 # 📘 UML - Unified Modeling Language
 
-![Diagrams.net Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png)
+![Diagrams.net Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/248px-Diagrams.net_Logo.svg.png)
 
 Este repositório contém estudos, exemplos e diagramas desenvolvidos com a linguagem de modelagem UML (Unified Modeling Language). A UML é uma ferramenta poderosa para visualizar, especificar, construir e documentar artefatos de sistemas de software orientados a objetos.
 
